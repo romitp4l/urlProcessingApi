@@ -1,0 +1,8 @@
+Flask
+requests
+bs4
+tldextract
+whois
+dnspython
+gunicorn
+pyOpenSSL
